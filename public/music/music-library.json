@@ -1,0 +1,22 @@
+{
+  "tracks": [
+    {
+      "id": "7aa3c361-b38b-40a2-a7f5-8c1c2f0649f3",
+      "filename": "7aa3c361-b38b-40a2-a7f5-8c1c2f0649f3.wav",
+      "originalName": "Archive 001.wav",
+      "format": "wav",
+      "duration": 198.32,
+      "size": 38077612,
+      "addedAt": "2026-07-14T10:19:53.721Z"
+    },
+    {
+      "id": "f7f70c4b-f454-4654-842b-53d63343702a",
+      "filename": "f7f70c4b-f454-4654-842b-53d63343702a.wav",
+      "originalName": "Archive 001.wav",
+      "format": "wav",
+      "duration": 198.32,
+      "size": 38077612,
+      "addedAt": "2026-07-14T19:10:58.580Z"
+    }
+  ]
+}
